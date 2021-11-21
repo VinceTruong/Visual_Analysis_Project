@@ -1,0 +1,560 @@
+[
+ {
+   "Date": "18/08/2021",
+   "First dose injected": "321,787",
+   "Second dose injected": "76,244",
+   "7-day average": "615,831"
+ },
+ {
+   "Date": "19/08/2021",
+   "First dose injected": "1,430,590",
+   "Second dose injected": "73,703",
+   "7-day average": "677,075"
+ },
+ {
+   "Date": "20/08/2021",
+   "First dose injected": "119,987",
+   "Second dose injected": "70,694",
+   "7-day average": "600,329"
+ },
+ {
+   "Date": "21/08/2021",
+   "First dose injected": "286,654",
+   "Second dose injected": "84,182",
+   "7-day average": "565,738"
+ },
+ {
+   "Date": "22/08/2021",
+   "First dose injected": "255,276",
+   "Second dose injected": "43,100",
+   "7-day average": "535,757"
+ },
+ {
+   "Date": "23/08/2021",
+   "First dose injected": "187,120",
+   "Second dose injected": "87,965",
+   "7-day average": "490,469"
+ },
+ {
+   "Date": "24/08/2021",
+   "First dose injected": "315,522",
+   "Second dose injected": "116,938",
+   "7-day average": "495,680"
+ },
+ {
+   "Date": "25/08/2021",
+   "First dose injected": "330,630",
+   "Second dose injected": "100,294",
+   "7-day average": "500,379"
+ },
+ {
+   "Date": "26/08/2021",
+   "First dose injected": "202,744",
+   "Second dose injected": "95,468",
+   "7-day average": "328,082"
+ },
+ {
+   "Date": "27/08/2021",
+   "First dose injected": "210,758",
+   "Second dose injected": "93,418",
+   "7-day average": "344,296"
+ },
+ {
+   "Date": "28/08/2021",
+   "First dose injected": "158,855",
+   "Second dose injected": "102,774",
+   "7-day average": "328,695"
+ },
+ {
+   "Date": "29/08/2021",
+   "First dose injected": "168,836",
+   "Second dose injected": "93,202",
+   "7-day average": "323,503"
+ },
+ {
+   "Date": "30/08/2021",
+   "First dose injected": "150,074",
+   "Second dose injected": "94,779",
+   "7-day average": "319,185"
+ },
+ {
+   "Date": "31/08/2021",
+   "First dose injected": "123,038",
+   "Second dose injected": "107,377",
+   "7-day average": "290,321"
+ },
+ {
+   "Date": "01/09/2021",
+   "First dose injected": "147,084",
+   "Second dose injected": "154,990",
+   "7-day average": "271,914"
+ },
+ {
+   "Date": "02/09/2021",
+   "First dose injected": "205,652",
+   "Second dose injected": "77,569",
+   "7-day average": "269,772"
+ },
+ {
+   "Date": "03/09/2021",
+   "First dose injected": "121,716",
+   "Second dose injected": "88,403",
+   "7-day average": "256,336"
+ },
+ {
+   "Date": "04/09/2021",
+   "First dose injected": "185,361",
+   "Second dose injected": "151,020",
+   "7-day average": "267,014"
+ },
+ {
+   "Date": "05/09/2021",
+   "First dose injected": "426,867",
+   "Second dose injected": "140,238",
+   "7-day average": "310,595"
+ },
+ {
+   "Date": "06/09/2021",
+   "First dose injected": "429,314",
+   "Second dose injected": "105,623",
+   "7-day average": "352,036"
+ },
+ {
+   "Date": "07/09/2021",
+   "First dose injected": "447,660",
+   "Second dose injected": "324,277",
+   "7-day average": "429,396"
+ },
+ {
+   "Date": "08/09/2021",
+   "First dose injected": "357,574",
+   "Second dose injected": "421,099",
+   "7-day average": "497,482"
+ },
+ {
+   "Date": "09/09/2021",
+   "First dose injected": "891,008",
+   "Second dose injected": "277,804",
+   "7-day average": "623,995"
+ },
+ {
+   "Date": "10/09/2021",
+   "First dose injected": "902,520",
+   "Second dose injected": "273,178",
+   "7-day average": "761,935"
+ },
+ {
+   "Date": "11/09/2021",
+   "First dose injected": "700,498",
+   "Second dose injected": "315,561",
+   "7-day average": "859,032"
+ },
+ {
+   "Date": "12/09/2021",
+   "First dose injected": "797,214",
+   "Second dose injected": "269,734",
+   "7-day average": "930,438"
+ },
+ {
+   "Date": "13/09/2021",
+   "First dose injected": "726,258",
+   "Second dose injected": "295,344",
+   "7-day average": "999,961"
+ },
+ {
+   "Date": "14/09/2021",
+   "First dose injected": "653,384",
+   "Second dose injected": "213,284",
+   "7-day average": "1,013,494"
+ },
+ {
+   "Date": "15/09/2021",
+   "First dose injected": "561,373",
+   "Second dose injected": "154,177",
+   "7-day average": "1,004,477"
+ },
+ {
+   "Date": "16/09/2021",
+   "First dose injected": "434,461",
+   "Second dose injected": "195,862",
+   "7-day average": "927,550"
+ },
+ {
+   "Date": "17/09/2021",
+   "First dose injected": "290,448",
+   "Second dose injected": "162,369",
+   "7-day average": "824,281"
+ },
+ {
+   "Date": "18/09/2021",
+   "First dose injected": "284,641",
+   "Second dose injected": "170,676",
+   "7-day average": "744,175"
+ },
+ {
+   "Date": "19/09/2021",
+   "First dose injected": "310,285",
+   "Second dose injected": "122,290",
+   "7-day average": "653,550"
+ },
+ {
+   "Date": "20/09/2021",
+   "First dose injected": "358,847",
+   "Second dose injected": "143,646",
+   "7-day average": "579,392"
+ },
+ {
+   "Date": "21/09/2021",
+   "First dose injected": "470,137",
+   "Second dose injected": "146,453",
+   "7-day average": "543,666"
+ },
+ {
+   "Date": "22/09/2021",
+   "First dose injected": "335,648",
+   "Second dose injected": "127,949",
+   "7-day average": "507,673"
+ },
+ {
+   "Date": "23/09/2021",
+   "First dose injected": "392,600",
+   "Second dose injected": "201,303",
+   "7-day average": "502,470"
+ },
+ {
+   "Date": "24/09/2021",
+   "First dose injected": "490,288",
+   "Second dose injected": "296,133",
+   "7-day average": "550,128"
+ },
+ {
+   "Date": "25/09/2021",
+   "First dose injected": "397,100",
+   "Second dose injected": "390,738",
+   "7-day average": "597,631"
+ },
+ {
+   "Date": "26/09/2021",
+   "First dose injected": "525,335",
+   "Second dose injected": "340,275",
+   "7-day average": "659,493"
+ },
+ {
+   "Date": "27/09/2021",
+   "First dose injected": "569,112",
+   "Second dose injected": "310,506",
+   "7-day average": "713,368"
+ },
+ {
+   "Date": "28/09/2021",
+   "First dose injected": "712,708",
+   "Second dose injected": "384,336",
+   "7-day average": "782,004"
+ },
+ {
+   "Date": "29/09/2021",
+   "First dose injected": "469,128",
+   "Second dose injected": "514,711",
+   "7-day average": "856,325"
+ },
+ {
+   "Date": "30/09/2021",
+   "First dose injected": "384,795",
+   "Second dose injected": "322,337",
+   "7-day average": "872,500"
+ },
+ {
+   "Date": "01/10/2021",
+   "First dose injected": "452,668",
+   "Second dose injected": "307,975",
+   "7-day average": "868,818"
+ },
+ {
+   "Date": "02/10/2021",
+   "First dose injected": "623,616",
+   "Second dose injected": "355,969",
+   "7-day average": "896,210"
+ },
+ {
+   "Date": "03/10/2021",
+   "First dose injected": "467,645",
+   "Second dose injected": "391,537",
+   "7-day average": "895,292"
+ },
+ {
+   "Date": "04/10/2021",
+   "First dose injected": "692,643",
+   "Second dose injected": "739,988",
+   "7-day average": "974,294"
+ },
+ {
+   "Date": "05/10/2021",
+   "First dose injected": "540,797",
+   "Second dose injected": "607,760",
+   "7-day average": "981,653"
+ },
+ {
+   "Date": "06/10/2021",
+   "First dose injected": "501,917",
+   "Second dose injected": "584,721",
+   "7-day average": "996,338"
+ },
+ {
+   "Date": "07/10/2021",
+   "First dose injected": "648,135",
+   "Second dose injected": "850,422",
+   "7-day average": "1,109,399"
+ },
+ {
+   "Date": "08/10/2021",
+   "First dose injected": "469,694",
+   "Second dose injected": "585,808",
+   "7-day average": "1,151,522"
+ },
+ {
+   "Date": "09/10/2021",
+   "First dose injected": "554,194",
+   "Second dose injected": "729,905",
+   "7-day average": "1,195,024"
+ },
+ {
+   "Date": "10/10/2021",
+   "First dose injected": "271,054",
+   "Second dose injected": "608,895",
+   "7-day average": "1,197,990"
+ },
+ {
+   "Date": "11/10/2021",
+   "First dose injected": "460,429",
+   "Second dose injected": "559,610",
+   "7-day average": "1,139,049"
+ },
+ {
+   "Date": "12/10/2021",
+   "First dose injected": "686,812",
+   "Second dose injected": "352,562",
+   "7-day average": "1,123,451"
+ },
+ {
+   "Date": "13/10/2021",
+   "First dose injected": "696,455",
+   "Second dose injected": "308,600",
+   "7-day average": "1,111,796"
+ },
+ {
+   "Date": "14/10/2021",
+   "First dose injected": "921,430",
+   "Second dose injected": "389,610",
+   "7-day average": "1,085,008"
+ },
+ {
+   "Date": "15/10/2021",
+   "First dose injected": "923,669",
+   "Second dose injected": "430,140",
+   "7-day average": "1,127,624"
+ },
+ {
+   "Date": "16/10/2021",
+   "First dose injected": "1,026,742",
+   "Second dose injected": "227,701",
+   "7-day average": "1,123,387"
+ },
+ {
+   "Date": "17/10/2021",
+   "First dose injected": "1,010,058",
+   "Second dose injected": "302,592",
+   "7-day average": "1,185,201"
+ },
+ {
+   "Date": "18/10/2021",
+   "First dose injected": "1,176,104",
+   "Second dose injected": "346,494",
+   "7-day average": "1,256,996"
+ },
+ {
+   "Date": "19/10/2021",
+   "First dose injected": "1,403,259",
+   "Second dose injected": "587,279",
+   "7-day average": "1,392,876"
+ },
+ {
+   "Date": "20/10/2021",
+   "First dose injected": "1,357,394",
+   "Second dose injected": "371,547",
+   "7-day average": "1,496,288"
+ },
+ {
+   "Date": "21/10/2021",
+   "First dose injected": "744,159",
+   "Second dose injected": "696,407",
+   "7-day average": "1,514,792"
+ },
+ {
+   "Date": "22/10/2021",
+   "First dose injected": "1,083,134",
+   "Second dose injected": "577,447",
+   "7-day average": "1,558,617"
+ },
+ {
+   "Date": "23/10/2021",
+   "First dose injected": "622,319",
+   "Second dose injected": "314,420",
+   "7-day average": "1,513,230"
+ },
+ {
+   "Date": "24/10/2021",
+   "First dose injected": "701,590",
+   "Second dose injected": "419,361",
+   "7-day average": "1,485,845"
+ },
+ {
+   "Date": "25/10/2021",
+   "First dose injected": "561,089",
+   "Second dose injected": "359,309",
+   "7-day average": "1,399,816"
+ },
+ {
+   "Date": "26/10/2021",
+   "First dose injected": "609,380",
+   "Second dose injected": "407,899",
+   "7-day average": "1,260,779"
+ },
+ {
+   "Date": "27/10/2021",
+   "First dose injected": "778,533",
+   "Second dose injected": "392,434",
+   "7-day average": "1,181,069"
+ },
+ {
+   "Date": "28/10/2021",
+   "First dose injected": "975,655",
+   "Second dose injected": "736,780",
+   "7-day average": "1,219,907"
+ },
+ {
+   "Date": "29/10/2021",
+   "First dose injected": "1,038,022",
+   "Second dose injected": "550,170",
+   "7-day average": "1,209,566"
+ },
+ {
+   "Date": "30/10/2021",
+   "First dose injected": "508,229",
+   "Second dose injected": "419,427",
+   "7-day average": "1,208,268"
+ },
+ {
+   "Date": "31/10/2021",
+   "First dose injected": "287,461",
+   "Second dose injected": "266,014",
+   "7-day average": "1,127,200"
+ },
+ {
+   "Date": "01/11/2021",
+   "First dose injected": "757,227",
+   "Second dose injected": "520,338",
+   "7-day average": "1,178,224"
+ },
+ {
+   "Date": "02/11/2021",
+   "First dose injected": "449,082",
+   "Second dose injected": "523,708",
+   "7-day average": "1,171,869"
+ },
+ {
+   "Date": "03/11/2021",
+   "First dose injected": "338,903",
+   "Second dose injected": "435,151",
+   "7-day average": "1,115,167"
+ },
+ {
+   "Date": "04/11/2021",
+   "First dose injected": "477,468",
+   "Second dose injected": "887,681",
+   "7-day average": "1,065,554"
+ },
+ {
+   "Date": "05/11/2021",
+   "First dose injected": "845,743",
+   "Second dose injected": "1,179,858",
+   "7-day average": "1,128,041"
+ },
+ {
+   "Date": "06/11/2021",
+   "First dose injected": "583,408",
+   "Second dose injected": "631,329",
+   "7-day average": "1,169,053"
+ },
+ {
+   "Date": "07/11/2021",
+   "First dose injected": "429,789",
+   "Second dose injected": "557,832",
+   "7-day average": "1,231,074"
+ },
+ {
+   "Date": "08/11/2021",
+   "First dose injected": "565,809",
+   "Second dose injected": "970,639",
+   "7-day average": "1,268,057"
+ },
+ {
+   "Date": "09/11/2021",
+   "First dose injected": "795,034",
+   "Second dose injected": "851,906",
+   "7-day average": "1,364,364"
+ },
+ {
+   "Date": "10/11/2021",
+   "First dose injected": "729,762",
+   "Second dose injected": "917,178",
+   "7-day average": "1,489,062"
+ },
+ {
+   "Date": "11/11/2021",
+   "First dose injected": "197,615",
+   "Second dose injected": "802,433",
+   "7-day average": "1,436,905"
+ },
+ {
+   "Date": "12/11/2021",
+   "First dose injected": "584,952",
+   "Second dose injected": "882,764",
+   "7-day average": "1,357,207"
+ },
+ {
+   "Date": "13/11/2021",
+   "First dose injected": "243,387",
+   "Second dose injected": "850,436",
+   "7-day average": "1,339,934"
+ },
+ {
+   "Date": "14/11/2021",
+   "First dose injected": "174,350",
+   "Second dose injected": "674,800",
+   "7-day average": "1,320,152"
+ },
+ {
+   "Date": "15/11/2021",
+   "First dose injected": "277,124",
+   "Second dose injected": "812,093",
+   "7-day average": "1,256,262"
+ },
+ {
+   "Date": "16/11/2021",
+   "First dose injected": "385,293",
+   "Second dose injected": "712,246",
+   "7-day average": "1,177,776"
+ },
+ {
+   "Date": "17/11/2021",
+   "First dose injected": "471,971",
+   "Second dose injected": "992,481",
+   "7-day average": "1,151,706"
+ },
+ {
+   "Date": "18/11/2021",
+   "First dose injected": "475,620",
+   "Second dose injected": "848,822",
+   "7-day average": "1,198,048"
+ }
+]
